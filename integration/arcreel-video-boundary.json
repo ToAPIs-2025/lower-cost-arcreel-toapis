@@ -1,0 +1,7 @@
+{
+  "status": "native_first_frame_import_pending",
+  "reason": "ArcReel local image inputs are encoded inline; ToAPIs first-frame URL must be uploaded. This batch does not invent an automatic multi-step upload inside the declarative endpoint schema.",
+  "tested_api_job": "jobs/video.json",
+  "next_step": "Ask approved cooperation contact to choose native upload helper or explicitly user-supplied HTTPS reference path.",
+  "no_pr_promotion": "CONTRIBUTING.md directs vendor-promotion integrations and sponsorship to support@arc-reel.com."
+}

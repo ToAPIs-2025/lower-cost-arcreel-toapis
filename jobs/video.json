@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "seedance-2",
+  "prompt": "The paper airship glides slowly forward above the autumn river as the camera tracks alongside. Gentle sunlight passes over the folded paper and a few leaves drift. Preserve the airship structure and the original landscape. One continuous shot, no speech, no text.",
+  "duration": 4,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": false,
+  "first_frame_file": "examples/gpt-image-2-vip.png",
+  "run_id": "1020-arcreel-seedance-2"
+}

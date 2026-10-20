@@ -1,0 +1,8 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "An original cinematic storyboard still: a small handmade ivory origami airship floats above an autumn valley, copper leaves and winding river below, golden sunrise, intricate paper folds and soft volumetric light, whimsical film production design, clear single composition, 16:9 landscape, no text, no logos, no watermark.",
+  "size": "1536x864",
+  "n": 1,
+  "run_id": "1020-arcreel-gpt-image-2.5-flare"
+}

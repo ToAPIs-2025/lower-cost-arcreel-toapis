@@ -1,0 +1,34 @@
+{
+  "model": "seedance-2",
+  "kind": "video",
+  "status": "completed",
+  "parameters": {
+    "duration": 4,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  },
+  "cost": {
+    "model": "seedance-2",
+    "billing_status": "settled",
+    "actual_cost_usd": "0.26676",
+    "actual_credits": "53.352"
+  },
+  "catalog_rate": "6.571429",
+  "catalog_unit": "1m_tokens",
+  "project": "ArcReel",
+  "date": "2026-10-20",
+  "file": "examples/seedance-2.mp4",
+  "prompt": "The paper airship glides slowly forward above the autumn river as the camera tracks alongside. Gentle sunlight passes over the folded paper and a few leaves drift. Preserve the airship structure and the original landscape. One continuous shot, no speech, no text.",
+  "validation_scope": "Live ToAPIs API and generated configuration contract; upstream application UI and native certification not exercised",
+  "first_frame": "examples/gpt-image-2-vip.png",
+  "actual_seconds": "4.04",
+  "actual_dimensions": [
+    864,
+    496
+  ],
+  "fully_decoded": true,
+  "audio_stream_present": false,
+  "case_price_usd": "0.26676",
+  "case_price_basis": "API billing=settled",
+  "actual_usd_per_second": "0.06602970297029702970297029703"
+}
