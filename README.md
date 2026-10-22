@@ -1,8 +1,8 @@
 # Lower-cost ArcReel image and video guide
 
-<!-- TOAPIS-PROJECT-LINKS-20261022 -->
-[ToAPIs homepage](https://home.toapis.com/ArcReel) · [Model pricing](https://pricing.toapis.com/ArcReel)
-<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+<!-- TOAPIS-OWNER-INVITE -->
+[Sign up / use ToAPIs](https://toapis.com/login?aff=BEWR) · [Guide price table](PRICING.md)
+<!-- /TOAPIS-OWNER-INVITE -->
 
 
 
@@ -48,7 +48,7 @@ Original project examples, historical charges and integration instructions follo
 
 Turn scripts into assets, storyboards and short-video projects.
 
-[中文](README_zh-CN.md) · [Model & pricing](https://pricing.toapis.com/ArcReel) · [Upstream](https://github.com/ArcReel/ArcReel)
+[中文](README_zh-CN.md) · [Model & pricing](https://toapis.com/login?aff=BEWR) · [Upstream](https://github.com/ArcReel/ArcReel)
 
 **Independent ToAPIs community guide, not an upstream-endorsed edition.** This validates API cases and configuration/module boundaries; full upstream product acceptance is pending.
 

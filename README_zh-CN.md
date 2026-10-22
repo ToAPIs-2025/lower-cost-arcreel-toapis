@@ -1,8 +1,8 @@
 # 更低成本的 ArcReel 图片与视频方案
 
-<!-- TOAPIS-PROJECT-LINKS-20261022 -->
-[ToAPIs 官网首页](https://home.toapis.com/ArcReel) · [模型价格](https://pricing.toapis.com/ArcReel)
-<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+<!-- TOAPIS-OWNER-INVITE -->
+[注册／使用 ToAPIs](https://toapis.com/login?aff=BEWR) · [参考价表](PRICING_zh-CN.md)
+<!-- /TOAPIS-OWNER-INVITE -->
 
 
 
@@ -48,7 +48,7 @@ gpt-image-2(VIP)通用价格为$0.0019/image起；本例low/1K为$0.0019/image�
 
 把剧本拆成资产、分镜与短视频项目。
 
-[English](README.md) · [Model & pricing](https://pricing.toapis.com/ArcReel) · [Upstream](https://github.com/ArcReel/ArcReel)
+[English](README.md) · [Model & pricing](https://toapis.com/login?aff=BEWR) · [Upstream](https://github.com/ArcReel/ArcReel)
 
 **ToAPIs独立社区方案，非上游官方版本。** 本轮验证API、配置契约或局部Adapter，完整产品流程尚未验收。
 
